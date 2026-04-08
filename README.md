@@ -1,4 +1,4 @@
-# 👋 Olá, 
+# 👋 Olá, eu me chamo Luan
 
 🎓 Graduando em Sistemas de Informação  
 📊 Focado em Análise de Dados | 🎮 Game Dev (iniciante)  
