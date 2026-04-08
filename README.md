@@ -27,7 +27,7 @@ Busco minha **primeira oportunidade de estágio em tecnologia**, onde eu possa a
 
 ## 🛠️ Tecnologias e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,vscode,github,git,godot,postgres,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,vscode,github,git,godot,postgres)](https://skillicons.dev)
 
 ---
 
