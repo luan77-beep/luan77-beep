@@ -45,8 +45,8 @@ Planejado:
 
 ## 📫 Contato
 
-- 💼 LinkedIn: [](https://www.linkedin.com/in/luan-nunes-a8b88b197/)
-- 📧 Email: [](luan88369@gmail.com)
+- 💼 LinkedIn: [Clique aqui](https://www.linkedin.com/in/luan-nunes-a8b88b197/)
+- 📧 Email: [Clique aqui](luan88369@gmail.com)
 
 ---
 
