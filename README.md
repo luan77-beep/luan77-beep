@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Olá, 
 
-<!--
-**luan77-beep/luan77-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduando em Sistemas de Informação  
+📊 Focado em Análise de Dados | 🎮 Game Dev (iniciante)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Sou estudante de Sistemas de Informação na USP.
+
+Tenho experiência com **Python e C**, e estou desenvolvendo habilidades em **análise e manipulação de dados**.
+
+Busco minha **primeira oportunidade de estágio em tecnologia**, onde eu possa aplicar meus conhecimentos e evoluir em um ambiente prático.
+
+---
+
+## 🎯 Áreas de Interesse
+
+- 📊 Análise de Dados (Data Analysis)
+- 📈 Visualização de Dados
+- 🧮 Estatística aplicada
+- 💻 Desenvolvimento de Software
+- 🎮 Desenvolvimento de Jogos (Godot - 2D)
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+[![My Skills](https://skillicons.dev/icons?i=py,c,vscode,github,git,godot,postgres,wasm)](https://skillicons.dev)
+
+---
+
+## 📂 Projetos em Destaque
+
+🚧 Em desenvolvimento 
+
+Planejado:
+- 📊 Projeto de análise de dados com Python (exploração + insights)
+- 📈 Dashboard simples com visualização de dados
+- 🎮 Jogo 2D utilizando Godot
+- 🧠 Resolução de problemas e desafios de programação
+
+---
+
+## 📫 Contato
+
+- 💼 LinkedIn: [](https://www.linkedin.com/in/luan-nunes-a8b88b197/)
+- 📧 Email: [](luan88369@gmail.com)
+
+---
+
+⭐ Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução!
